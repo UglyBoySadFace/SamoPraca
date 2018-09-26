@@ -1,2 +1,0 @@
-# SamoPraca
-Created with CodeSandbox
